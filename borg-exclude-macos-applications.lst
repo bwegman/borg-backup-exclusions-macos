@@ -42,6 +42,9 @@
 # Microsoft office
 ! **/Microsoft/FontPreviewCache
 
+# Online drives (OneDrive, Google Drive, Dropbox, iCloud Drive, etc.)
+! **/Library/CloudStorage
+
 # Spotify
 ! **/Spotify/PersistentCache
 
